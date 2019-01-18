@@ -1,1 +1,1 @@
-# Data Availability
+This repository has the data for paper Optimization of sparse concentric ring arrays for low sidelobe, including the picture, program and other data. It is available for public.
